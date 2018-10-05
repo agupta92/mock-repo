@@ -7,5 +7,4 @@
         echo "inifn";
         echo "hveod";
         echo "kmbxa";
-        echo "njnmt";
 ?>
