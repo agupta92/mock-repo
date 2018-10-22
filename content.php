@@ -6,5 +6,4 @@
         echo "vsjgd";
         echo "inifn";
         echo "hveod";
-        echo "rxfgg";
 ?>
