@@ -62,5 +62,4 @@
         echo "kxtrm";
         echo "uyyav";
         echo "kncpm";
-        echo "ijusq";
 ?>
