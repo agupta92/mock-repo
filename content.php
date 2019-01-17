@@ -20,5 +20,5 @@
         echo "shbjf";
         echo "qquit";
         echo "dekim";
-        echo "ibkyf";
+        echo "easto";
 ?>
