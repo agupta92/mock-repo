@@ -21,5 +21,5 @@
         echo "qquit";
         echo "dekim";
         echo "qchir";
-        echo "cwjmv";
+        echo "wmhmw";
 ?>
