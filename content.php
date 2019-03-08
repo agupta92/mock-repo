@@ -25,5 +25,4 @@
         echo "hytux";
         echo "xrtfn";
         echo "sheyw";
-        echo "wkelm";
 ?>
