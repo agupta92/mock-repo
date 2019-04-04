@@ -30,5 +30,4 @@
         echo "vkicw";
         echo "fruvi";
         echo "uewiv";
-        echo "mwdth";
 ?>
