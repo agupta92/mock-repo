@@ -75,5 +75,4 @@
         echo "fgmrv";
         echo "whjrd";
         echo "dkvrn";
-        echo "kwuso";
 ?>
