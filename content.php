@@ -37,5 +37,4 @@
         echo "xtnjq";
         echo "inpld";
         echo "oxrqk";
-        echo "doomj";
 ?>
