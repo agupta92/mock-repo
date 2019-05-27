@@ -38,4 +38,5 @@
         echo "inpld";
         echo "rwdnq";
         echo "pvpxy";
+        echo "rsudy";
 ?>
