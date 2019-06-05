@@ -40,5 +40,4 @@
         echo "pvpxy";
         echo "rsudy";
         echo "gonsw";
-        echo "guaon";
 ?>
