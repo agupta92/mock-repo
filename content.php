@@ -88,5 +88,4 @@
         echo "yewpo";
         echo "txwaj";
         echo "mclgn";
-        echo "wddds";
 ?>
