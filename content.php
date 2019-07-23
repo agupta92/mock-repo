@@ -90,5 +90,4 @@
         echo "hyecl";
         echo "sticx";
         echo "tbcag";
-        echo "tetwr";
 ?>
